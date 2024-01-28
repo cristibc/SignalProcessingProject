@@ -1,5 +1,4 @@
-# Signal Processing Project
-## Algoritmi Moderni pentru Compresia imaginilor
+## SP Project - Algoritmi Moderni pentru Compresia imaginilor
 ### FMI CTI 462 - Borcan Cristian - Telea Maria - Draghioti Andreea
 
 Initial Presentation - [Prezentare_initiala_PS.pptx](https://github.com/cristibc/SignalProcessingProject/blob/main/Prezentare_initiala_PS.pptx) \
